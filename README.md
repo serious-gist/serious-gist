@@ -2,9 +2,11 @@
 
 I'm Sharad Sirsat.
 
-Currently: Machine Learning Engineer at elevait GmbH and Co. KG.
-Previously: Master Stduent at Technical University of Chemnitz (2018-2020) &
-Associate Consultant at Capgemini (2015-2018)
+**Currently:** Machine Learning Engineer at elevait GmbH and Co. KG.
+
+**Previously:** 
+* Master Stduent at Technical University of Chemnitz (2018-2020)
+* Associate Consultant at Capgemini (2015-2018)
 
 🔭 I’m currently working on ...
 
@@ -28,5 +30,5 @@ Machine learning related problems specifically in automotive domain.
 Gmail : sharadmsirsat@gmail.com                 
 Linkedin: https://www.linkedin.com/in/sharadsirsat/
 
--->
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sharadsirsat&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
